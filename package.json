@@ -1,20 +1,13 @@
 {
-  "name": "lab_4",
+  "name": "lab_04",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/madubashinii/Lab_4#readme",
-  "bugs": {
-    "url": "https://github.com/madubashinii/Lab_4/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/madubashinii/Lab_4.git"
-  },
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }
